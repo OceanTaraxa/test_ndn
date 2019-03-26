@@ -1,0 +1,12 @@
+cmake-build-debug/
+CMakeFiles/
+.idea/
+
+/cmake_install.cmake
+/CMakeCache.txt
+
+/ip_ndn_stack_cpp
+/ip_ndn_stack_cpp.cbp
+/Makefile
+
+deployment/temp
